@@ -81,7 +81,7 @@ map_marker = "images/marker.png" # marker size 37*55 px
 # cookies
 [params.cookies]
 enable = true
-expire_days = 2
+expire_days = 7
   
 ############################# social site ########################
 [[params.social]]
@@ -189,7 +189,7 @@ url = "research"
 languageName = "En"
 languageCode = "en-us"
 contentDir = "content/english"
-weight = 1
+weight = 2
 home = "Home"
 # copyright
 copyright = "Copyright &copy; 2021 a site by [Creative Bharatam](https://creativebharatam.in/)"
@@ -279,7 +279,7 @@ url = "research"
 languageName = "Fr"
 languageCode = "fr-fr"
 contentDir = "content/french"
-weight = 2
+weight = 3
 home = "Accueil"
 # copyright
 copyright = "Copyright &copy; 2021 a site by [Creative Bharatam](https://creativebharatam.in/)"
