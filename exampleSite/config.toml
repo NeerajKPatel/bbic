@@ -125,27 +125,27 @@ name = "पृष्ठ"
 hasChildren = true
 
   [[Languages.hi.menu.main]]
-  parent = "Pages"
+  parent = "पृष्ठ"
   name = "शिक्षक"
   url = "teacher"
 
   [[Languages.hi.menu.main]]
-  parent = "Pages"
+  parent = "पृष्ठ"
   name = "सूचना"
   url = "notice"
 
   [[Languages.hi.menu.main]]
-  parent = "Pages"
+  parent = "पृष्ठ"
   name = "आयोजन"
   url = "event"
 
   [[Languages.hi.menu.main]]
-  parent = "Pages"
+  parent = "पृष्ठ"
   name = "छात्रवृत्ति"
   url = "scholarship"
 
   [[Languages.hi.menu.main]]
-  parent = "Pages"
+  parent = "पृष्ठ"
   name = "अनुसंधान"
   url = "research"
   
