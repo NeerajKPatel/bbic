@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://bbic.netlify.app/"
+baseURL = "https://www.bbintercollege.in/"
 title = "वंश बहादुर इंटर कॉलेज | बहुआर"
 theme = "educenter-hugo"
 # post pagination
@@ -9,7 +9,7 @@ summaryLength = "10"
 # disqus short name
 disqusShortname = "educenter" # get your shortname form here : https://disqus.com
 # disable language
-disableLanguages = [] # desable language from here
+disableLanguages = ["fr"] # desable language from here
 
 
 ############################# Plugins ##############################
@@ -48,7 +48,7 @@ logo = "images/logo.png"
 description = "This is meta description"
 author = "CreativeBharatam"
 # contact info
-address = "Bansbahadur Inter College Bahua Kala, Jhulanipur, Maharajganj district, Uttar Pradesh - 273304"
+address = "Bansbahadur Inter College, Bahua Kala, Jhulanipur, Maharajganj district, Uttar Pradesh - 273304"
 mobile = "+91-8009193089"
 email = "bbic.bahuar@gmail.com"
 # contact form action
@@ -65,7 +65,7 @@ preloader = "images/preloader.gif" # use jpg, png, svg or gif format.
 
 # Subscription
 [params.subscription]
-enable = true
+enable = false
 # mailchimp subsciption
 mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
 mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this code with yours
@@ -81,7 +81,7 @@ map_marker = "images/marker.png" # marker size 37*55 px
 # cookies
 [params.cookies]
 enable = true
-expire_days = 7
+expire_days = 5
   
 ############################# social site ########################
 [[params.social]]
@@ -102,7 +102,7 @@ contentDir = "content/hindi"
 weight = 1
 home = "घर"
 # copyright
-copyright = "Copyright &copy; 2021 [रचनात्मक भारतम](https://creativebharatam.in/) द्वारा एक साइट"
+copyright = "Copyright &copy; 2021 [रचनात्मक भारतम](https://creativebharatam.in/) द्वारा साइट"
 
 
 
